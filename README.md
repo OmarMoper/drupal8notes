@@ -1,5 +1,5 @@
 # drupal8notes
-Notes about drupal 8 to query in future. Links, little annotations, etc.
+Notes about drupal 8 to query in future. Links, little annotations, etc. The idea is have a single README.txt  which all info grouped.
 
   * [Contrib modules](#contrib-modules)
   * [Entities](#entities)
@@ -18,3 +18,6 @@ Notes about drupal 8 to query in future. Links, little annotations, etc.
 
 ## Fields
 - Extending field type: https://www.lullabot.com/articles/extending-a-field-type-in-drupal-8
+
+## Routing
+- Altering / Generating dynamic routes: https://www.drupal.org/docs/8/api/routing-system/altering-existing-routes-and-adding-new-routes-based-on-dynamic-ones
