@@ -1,11 +1,11 @@
-- [drupal8notes](#drupal8notes)
+# drupal8notes
+Notes about drupal 8 to query in future. Links, little annotations, etc.
+
+## Table of contents:
   * [Contrib modules](#contrib-modules)
   * [Entities](#entities)
   * [Plugins](#plugins)
   * [Fields](#fields)
-
-# drupal8notes
-Notes about drupal 8 to query in future. Links, little annotations, etc.
 
 ## Contrib modules
 - Examples reference: http://drupal.org/project/examples
