@@ -1,5 +1,5 @@
 # drupal8notes
-Notes about drupal 8 to query in future. Urls, little annotations, etc.
+Notes about drupal 8 to query in future. Links, little annotations, etc.
 
 ## Contrib modules
 - Examples reference: http://drupal.org/project/examples
