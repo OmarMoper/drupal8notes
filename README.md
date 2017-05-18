@@ -1,3 +1,9 @@
+- [drupal8notes](#drupal8notes)
+  * [Contrib modules](#contrib-modules)
+  * [Entities](#entities)
+  * [Plugins](#plugins)
+  * [Fields](#fields)
+
 # drupal8notes
 Notes about drupal 8 to query in future. Links, little annotations, etc.
 
