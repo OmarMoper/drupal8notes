@@ -21,3 +21,4 @@ Notes about drupal 8 to query in future. Links, little annotations, etc. The ide
 
 ## Routing
 - Altering / Generating dynamic routes: https://www.drupal.org/docs/8/api/routing-system/altering-existing-routes-and-adding-new-routes-based-on-dynamic-ones
+- Redirect users: https://drupal.stackexchange.com/questions/136641/how-do-i-redirect-to-an-external-url
