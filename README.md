@@ -5,6 +5,7 @@ Notes about drupal 8 to query in future. Links, little annotations, etc. The ide
   * [Entities](#entities)
   * [Plugins](#plugins)
   * [Fields](#fields)
+  * [Cache](#cache)
 
 ## Contrib modules
 - Examples reference: http://drupal.org/project/examples
