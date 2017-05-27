@@ -6,7 +6,8 @@ Notes about drupal 8 to query in future. Links, little annotations, etc. The ide
   * [Plugins](#plugins)
   * [Fields](#fields)
   * [Cache](#cache)
-
+  * [Form](#form)
+  
 ## Contrib modules
 - Examples reference: http://drupal.org/project/examples
 
@@ -26,3 +27,7 @@ Notes about drupal 8 to query in future. Links, little annotations, etc. The ide
 
 ## Cache
 - Disabling cache during development: https://www.drupal.org/node/2598914
+
+# Forms
+- Ajax callbacks: https://api.drupal.org/api/drupal/core!core.api.php/group/ajax/8.2.x
+- Render form: https://drupal.stackexchange.com/questions/182405/how-to-render-form-in-drupal-8
