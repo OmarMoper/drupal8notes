@@ -10,6 +10,7 @@ Notes about drupal 8 to query in future. Links, little annotations, etc. The ide
   
 ## Contrib modules
 - Examples reference: http://drupal.org/project/examples
+- How to use features in drupal 8: https://www.drupal.org/node/2693831 (first two comments)
 
 ## Entities
 - Get fields of entity bundle: https://drupal.stackexchange.com/questions/161293/get-all-fields-defined-in-a-bundle-in-drupal-8
