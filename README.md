@@ -34,4 +34,4 @@ Notes about drupal 8 to query in future. Links, little annotations, etc. The ide
 - Ajax callbacks: https://api.drupal.org/api/drupal/core!core.api.php/group/ajax/8.2.x
 - Render form: https://drupal.stackexchange.com/questions/182405/how-to-render-form-in-drupal-8
 # Theming
-- How attach library to tpl https://www.drupal.org/node/2456753
+- Working with libraries: https://www.drupal.org/docs/8/creating-custom-modules/adding-stylesheets-css-and-javascript-js-to-a-drupal-8-module
